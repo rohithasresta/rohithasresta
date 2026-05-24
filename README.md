@@ -1,38 +1,78 @@
-# Hi, I'm Rohitha Sresta 👋
+# Hi, I'm Rohitha Sresta 
 
 ### AI/ML Enthusiast • Undergraduate Researcher • Backend Developer
 
-I’m a Computer Science undergraduate at the University of Missouri passionate about building intelligent systems and AI-powered applications. My interests lie in machine learning, backend engineering, data-driven systems, and applied AI research.
+I’m a Computer Science undergraduate at the University of Missouri passionate about building intelligent systems, scalable AI applications, and research-driven software. I enjoy working across AI, backend systems, automation, and data-driven technologies to create practical real-world solutions.
 
-I enjoy building practical software that combines intelligent automation, scalable backend systems, and user-focused design to solve real-world problems.
-
----
-
-## 🛠 Tech Stack
-
-**Languages**  
-Python • JavaScript • SQL • HTML/CSS
-
-**AI & Data Science**  
-PyTorch • TensorFlow • Scikit-learn • OpenCV • Data Analysis
-
-**Backend & Tools**  
-FastAPI • Git • Firebase • APIs • Linux
+My interests include machine learning, generative AI, inference systems, intelligent workflows, backend architecture, and modern AI infrastructure.
 
 ---
 
-## 🚀 Current Work
+# Tech Stack
+
+## Languages
+Python • JavaScript • SQL • HTML/CSS • C++ • Bash
+
+---
+
+## AI / Machine Learning
+PyTorch • TensorFlow • Scikit-learn • OpenCV • XGBoost • NumPy • Pandas • Matplotlib • Seaborn
+
+---
+
+## Generative AI
+LLMs • Prompt Engineering • RAG Pipelines • AI Agents • Agentic AI • MCPs (Model Context Protocols) • Fine-Tuning • Embeddings • Vector Search • Semantic Search • Context Engineering • Function Calling • Tool Calling • Multi-Agent Systems
+
+---
+
+## AI Frameworks & Libraries
+LangChain • LangGraph • OpenAI APIs • Hugging Face • Transformers • Ollama • LlamaIndex • CrewAI • AutoGen
+
+---
+
+## Inference & AI Infrastructure
+Inference Pipelines • vLLM • TensorRT • ONNX • Quantization • GPU Acceleration • Model Optimization • Tokenization • Streaming Responses • AI Deployment
+
+---
+
+## Data Science & Analytics
+Data Analysis • Data Visualization • Feature Engineering • EDA • Statistical Analysis • Data Cleaning • Predictive Modeling
+
+---
+
+## Backend Engineering
+FastAPI • Flask • REST APIs • Authentication • Webhooks • API Integration • Async Programming • Microservices
+
+---
+
+## Databases & Storage
+PostgreSQL • MySQL • SQLite • Firebase • MongoDB • Vector Databases • Pinecone • ChromaDB
+
+---
+
+## Cloud / DevOps
+Docker • Git • GitHub Actions • Linux • CI/CD • Deployment • Cloud Functions
+
+---
+
+## Tools & Platforms
+Jupyter Notebook • VS Code • Postman • GitHub • Figma
+
+---
+
+# 🚀 Current Work
 
 - Building AI-powered chatbot and dashboard systems
-- Developing backend applications and automation tools
-- Working on machine learning and data analysis projects
-- Exploring scalable AI applications and intelligent workflows
+- Exploring scalable RAG and AI agent architectures
+- Working on backend systems and intelligent automation
+- Researching machine learning and applied AI workflows
+- Developing practical AI applications for real-world use cases
 
 ---
 
-## 📌 Interests
+# 📌 Interests
 
-Artificial Intelligence • Machine Learning • Backend Engineering • Data Science • Research • Intelligent Systems
+Artificial Intelligence • Machine Learning • Generative AI • AI Infrastructure • Backend Engineering • Research • Intelligent Systems
 
 ---
 
