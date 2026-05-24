@@ -60,7 +60,7 @@ Jupyter Notebook • VS Code • Postman • GitHub • Figma
 
 ---
 
-# 🚀 Current Work
+#  Current Work
 
 - Building AI-powered chatbot and dashboard systems
 - Exploring scalable RAG and AI agent architectures
@@ -70,13 +70,13 @@ Jupyter Notebook • VS Code • Postman • GitHub • Figma
 
 ---
 
-# 📌 Interests
+# Interests
 
 Artificial Intelligence • Machine Learning • Generative AI • AI Infrastructure • Backend Engineering • Research • Intelligent Systems
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - LinkedIn:www.linkedin.com/in/rohitha-sresta
 - Email: rgkk9@umsystem.edu
